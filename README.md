@@ -1,4 +1,4 @@
-# assorted-projects
+This is an alternate github account used in virtualbox linux.
 
 # [fullstackopen](https://fullstackopen.com/)
 
