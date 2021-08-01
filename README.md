@@ -1,4 +1,4 @@
 # assorted-projects
-An assorted colelction of projects.
+An assorted collection of projects.
 
 Write something about yourself.
